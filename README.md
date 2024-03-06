@@ -22,5 +22,6 @@ npm run dev
 - CRUD de Produtos
 - Validação de formulário utilizando a biblioteca Zod
 - Utilização do Zustand para gerenciamento de estado
+- Utilização da biblioteca de componentes chakra ui
 
 </div>
